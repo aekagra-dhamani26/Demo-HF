@@ -18,3 +18,12 @@ EX :-
         "favorite Quote" : "force for a good"
        }
          ]
+ [
+       {
+        "id" : "2",
+        "Name" : "Harsh",
+        "Year of Graduation" : "2024"
+        "Intrest of work" : "Marketing "
+        "favorite Quote" : "It's nice to be important but it's important to be nice"
+       }
+         ]
